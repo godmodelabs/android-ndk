@@ -1,4 +1,1 @@
-_tmp
-Vagrantfile
-.vagrant
-.bitrise*
+_dist/**
